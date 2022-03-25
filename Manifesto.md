@@ -1,4 +1,4 @@
-#The Fantôme Collective Manifesto
+The Fantôme Collective Manifesto
 
 Principles of the DAO and its Members
 
